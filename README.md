@@ -60,7 +60,7 @@
 
 ## 🧩 Quick Skill Icons
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,electron,cpp,opengl,godot,laravel,nginx,blender,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,electron,cpp,astro,bun,c,cpp,cs,discordjs,linux,godot,laravel,nginx,blender,figma)](https://skillicons.dev)
 
 ---
 
